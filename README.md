@@ -1,5 +1,4 @@
-h3 {text-align: center; margin-left: 150px; margin-right: 150px;}
-<h3>
+<h3 text-align: center; margin-left: 150px; margin-right: 150px;>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghoon11)](https://github.com/anuraghazra/github-readme-stats)
