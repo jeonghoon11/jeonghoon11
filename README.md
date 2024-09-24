@@ -1,4 +1,4 @@
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center></div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
@@ -6,6 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 <hr><br>
+<h1>📚 STACKS</h1>
 <div>
   
 ![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
