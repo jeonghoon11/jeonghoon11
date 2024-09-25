@@ -10,13 +10,10 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeonghoon11&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
-
-
 </div>
-
-<hr><br>
+<br>
+<h1 align="center">📚 STACKS 📚</h1>
 <div align="center">
-  <h1>📚 STACKS</h1>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -24,7 +21,7 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
 <img src="https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp
-</div>  
+</div>
 
 <h1 align="center">🛠 Tools 🛠</h1>
 <div align="center">
@@ -33,9 +30,8 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
-<hr><br>
 
-<h3 align="center">📫 Contact 📫</h3>
+<h1 align="center">📫 Contact 📫</h1>
 <div align="center">
   <a href="https://www.instagram.com/_jeonghoon11/">
     <img
