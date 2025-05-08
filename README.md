@@ -3,12 +3,12 @@
 <h3>Hi there 👋</h3>
 <p>긍정적인 에너지와 열정으로 도전하는 장정훈입니다 :)</p>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jeonghoon11&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/jeonghoon11"
-    width="1000"
-    height="400"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jeonghoon11&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/jeonghoon11"
+  width=100%
+  height="400"
+/>
 </a>
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
