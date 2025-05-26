@@ -2,7 +2,7 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=150&section=header" /> -->
 <h3>Hi there 👋</h3>
 <p>긍정적인 에너지와 열정으로 도전하는 장정훈입니다 :)</p>
-
+<!--
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jeonghoon11&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/jeonghoon11"
@@ -29,10 +29,10 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
-<br>
+<!-- <br>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
 <img src="https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp -->
 </div>
 
 <h1>🛠 Tools 🛠</h1>
