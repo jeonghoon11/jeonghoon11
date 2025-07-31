@@ -9,7 +9,7 @@
 -  🏆 SOPT 36기 앱잼  `Bofit` 서비스 최우수상[2등]  수상 [2025.06. ~ ING]
 
 #### KaKao X Goorm <a href='https://9oormthon.university'>구름톤 유니브</a> 4기
-- KaKao X Goorm 구름톤 유니브 안양대학교 `부대표` [2025.03. ~ 2025.07.]
+- KaKao X Goorm 구름톤 유니브 안양대학교 `부대표` [2025.03. ~ 2025.09.]
 - KaKao X Goorm 구름톤 유니브 경인 X 경기북부 해커톤(9ITHON) `운영진` [2025.06. ~ 2025.07.]
 
 #### Univ.
