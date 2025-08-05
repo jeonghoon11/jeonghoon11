@@ -14,6 +14,7 @@
 
 #### Univ.
 - NETWORK LAB [2024.11 ~ ING]
+- 안양대학교 축제 서비스 `Passtival` 제작 [2025.08. ~ ING]
 - <a href='https://www.hultprize.org/'>Hult Prize</a> Korea — UN 후원 글로벌 사회혁신 창업 대회 `운영진` [2024.09 ~ 2025.02]
 - 교내 IT 동아리 [2024.08. ~ 2024.12.]
 - 컴퓨터 공학과 홈페이지 제작 [2025.02. ~ ING]
