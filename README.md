@@ -26,11 +26,6 @@
 
 <br />
 
-<a href="https://www.instagram.com/_jeonghoon11/">
-    <img
-      src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
-</a>
-
 <!-- animal
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jeonghoon11&utm_content=farm">
 <img
