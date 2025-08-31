@@ -4,7 +4,7 @@
 
 
 ## ACTIVITY
-#### 대학생 연합 IT 벤처 창업 동아리, <a href='https://sopt.org/'>SOPT</a> 36기 Web Frontend 파트
+#### 대학생 연합 IT 벤처 창업 동아리, <a href='https://sopt.org/'>SOPT</a> 36th YB, 37th OB Web Frontend 파트
 -  🏆 SOPT 36기 솝커톤  `감자가자` 서비스 menTory pick! 수상 FRONT [2025.05. ~ 2025.05.]
 -  🏆 SOPT 36기 앱잼  `Bofit` 서비스 최우수상[2등]  수상 [2025.06. ~ ING]
 
