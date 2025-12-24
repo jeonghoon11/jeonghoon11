@@ -2,6 +2,8 @@
   
 > 긍정적인 에너지와 열정으로 도전하는 **장정훈**입니다 :)
 
+## Contributions
+- [left-hook](https://github.com/evilmartians/lefthook/pull/1250)
 
 ## ACTIVITY
 #### 대학생 연합 IT 벤처 창업 동아리, <a href='https://sopt.org/'>SOPT</a> 36th YB, 37th OB Web Frontend 파트
