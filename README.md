@@ -7,8 +7,9 @@
 
 ## ACTIVITY
 #### 대학생 연합 IT 벤처 창업 동아리, <a href='https://sopt.org/'>SOPT</a> 36th YB, 37th OB Web Frontend 파트
--  🏆 SOPT 36기 솝커톤  `감자가자` 서비스 menTory pick! 수상 FRONT [2025.05. ~ 2025.05.]
--  🏆 SOPT 36기 앱잼  `Bofit` 서비스 최우수상[2등]  수상 [2025.06. ~ ING]
+-  🏆 SOPT 36기 솝커톤  `감자가자`  서비스 기업 `menTory pick!` 수상 [2025.05. ~ 2025.05.]
+-  🏆 SOPT 36기 앱잼  `Bofit`  서비스 `최우수상` 수상 [2025.06. ~ ING]
+-  🏆 SOPT 37기 앱잼  `Kareer`  서비스 `우수상`, 심사위원상(기업 현직자 멘토단) `특별상` 수상 [2025.12. ~ ING]
 
 #### KaKao X Goorm <a href='https://9oormthon.university'>구름톤 유니브</a> 4기
 - KaKao X Goorm 구름톤 유니브 안양대학교 `부대표` [2025.03. ~ 2025.09.]
