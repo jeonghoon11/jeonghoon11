@@ -7,7 +7,7 @@
 
 ## ACTIVITY
 #### 대학생 연합동아리, SOPT Makers 38기
-- SOPT 구성원들이 하나로 모일 수 있는 모임 서비스 개발, `Crew팀` Front-End Developer [2025.02. ~ ING]
+- SOPT 구성원들이 하나로 모일 수 있는 모임 서비스 개발, `Crew팀` Front-End Developer [2026.02. ~ ING]
 
 #### 대학생 연합 IT 벤처 창업 동아리, <a href='https://sopt.org/'>SOPT</a> 36th YB, 37th OB Web Frontend 파트
 -  🏆 SOPT 36기 솝커톤  `감자가자`  서비스 기업 `menTory pick!` 수상 [2025.05. ~ 2025.05.]
