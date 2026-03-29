@@ -7,7 +7,7 @@
 
 ## ACTIVITY
 #### 대학생 연합동아리, <a href='https://makers.sopt.org/'>SOPT Makers</a> 38기
-- SOPT 구성원들이 하나로 모일 수 있는 <a href='https://github.com/sopt-makers/sopt-crew-frontend'>모임 서비스</a> 개발, `Crew팀` Front-End Developer [2026.02. ~ ING]
+- SOPT 구성원들이 하나로 모일 수 있는 <a href='https://github.com/sopt-makers/sopt-makers-frontend'>모임 서비스</a> 개발, `Crew팀` Front-End Developer [2026.02. ~ ING]
 
 #### 대학생 연합 IT 벤처 창업 동아리, <a href='https://sopt.org/'>SOPT</a> 36th YB, 37th OB Web Frontend 파트
 -  🏆 SOPT 36기 솝커톤  `감자가자`  서비스 기업 `menTory pick!` 수상 [2025.05. ~ 2025.05.]
@@ -19,19 +19,20 @@
 - KaKao X Goorm 구름톤 유니브 경인 X 경기북부 해커톤(9ITHON) `운영진` [2025.06. ~ 2025.07.]
 
 #### Univ.
-- NETWORK LAB [2024.11 ~ ING]
 - 안양대학교 축제 서비스 `Passtival` 제작 [2025.08. ~ 2025.09.]
+- NETWORK LAB [2024.11 ~ ING]
 - <a href='https://www.hultprize.org/'>Hult Prize</a> Korea — UN 후원 글로벌 사회혁신 창업 대회 `운영진` [2024.09 ~ 2025.02]
 - 교내 IT 동아리 [2024.08. ~ 2024.12.]
 - 컴퓨터 공학과 홈페이지 제작 [2025.02. ~ ING]
 
+<!--
 ## ETC
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=jeonghoon11&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&v=1" width=59% />
 </a>
 
 <br />
-
+-->
 <!-- animal
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jeonghoon11&utm_content=farm">
 <img
