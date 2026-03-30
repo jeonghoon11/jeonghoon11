@@ -6,7 +6,7 @@
 - [left-hook](https://github.com/evilmartians/lefthook/pull/1250)
 
 ## ACTIVITY
-#### 대학생 연합동아리, <a href='https://makers.sopt.org/'>SOPT Makers</a> 38기
+#### 대학생 연합동아리, <a href='https://makers.sopt.org/'>SOPT Makers</a> 38th
 - SOPT 구성원들이 하나로 모일 수 있는 <a href='https://github.com/sopt-makers/sopt-makers-frontend'>모임 서비스</a> 개발, `Crew팀` Front-End Developer [2026.02. ~ ING]
 
 #### 대학생 연합 IT 벤처 창업 동아리, <a href='https://sopt.org/'>SOPT</a> 36th YB, 37th OB Web Frontend 파트
