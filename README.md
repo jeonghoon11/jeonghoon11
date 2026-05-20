@@ -12,18 +12,20 @@
 #### 대학생 연합 IT 벤처 창업 동아리, <a href='https://sopt.org/'>SOPT</a> 36th YB, 37th OB Web Frontend 파트
 -  🏆 SOPT 36기 솝커톤  `감자가자`  서비스 기업 `menTory pick!` 수상 [2025.05. ~ 2025.05.]
 -  🏆 SOPT 36기 앱잼  `Bofit`  서비스 `최우수상` 수상 [2025.06. ~ ING]
--  🏆 SOPT 37기 앱잼  `Kareer`  서비스 `우수상`, 심사위원상(기업 현직자 멘토단) `특별상` 수상 [2025.12. ~ ING]
+-  🏆 SOPT 37기 앱잼  `Kareer`  서비스 `우수상`, 심사위원상(기업 현직자 멘토단) `특별상` 수상 [2025.12. ~ ING] `FE Lead`
 
 #### KaKao X Goorm <a href='https://9oormthon.university'>구름톤 유니브</a> 4기
 - KaKao X Goorm 구름톤 유니브 안양대학교 `부대표` [2025.03. ~ 2025.09.]
 - KaKao X Goorm 구름톤 유니브 경인 X 경기북부 해커톤(9ITHON) `운영진` [2025.06. ~ 2025.07.]
 
 #### Univ.
-- 안양대학교 축제 서비스 `Passtival` 제작 [2025.08. ~ 2025.09.]
+- 안양대학교 축제 서비스 `Passtival` 제작 [2025.08. ~ 2025.09.] `FE Lead`
 - NETWORK LAB [2024.11 ~ ING]
 - <a href='https://www.hultprize.org/'>Hult Prize</a> Korea — UN 후원 글로벌 사회혁신 창업 대회 `운영진` [2024.09 ~ 2025.02]
 - 교내 IT 동아리 [2024.08. ~ 2024.12.]
+<!--
 - 컴퓨터 공학과 홈페이지 제작 [2025.02. ~ ING]
+-->
 
 <!--
 ## ETC
