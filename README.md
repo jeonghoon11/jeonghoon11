@@ -3,26 +3,46 @@
 > 긍정적인 에너지와 열정으로 도전하는 **장정훈**입니다 :)
 
 ## Contributions
-- [left-hook](https://github.com/evilmartians/lefthook/pull/1250)
+- [toss/es-toolkit](https://github.com/toss/es-toolkit/pulls?q=is%3Apr+is%3Aclosed+author%3Ajeonghoon11)
+- [TanStack/query](https://github.com/TanStack/query/pulls?q=is%3Apr+author%3Ajeonghoon11+is%3Aclosed)
+- [evilmartians/left-hook](https://github.com/evilmartians/lefthook/pulls?q=is%3Apr+author%3Ajeonghoon11+is%3Aclosed)
 
 ## ACTIVITY
-#### 대학생 연합동아리, <a href='https://makers.sopt.org/'>SOPT Makers</a>
-- SOPT 구성원들이 하나로 모일 수 있는 <a href='https://github.com/sopt-makers/sopt-makers-frontend'>모임 서비스</a> 개발, `Crew팀` Front-End Developer [2026.02. ~ ING]
 
-#### 대학생 연합 IT 벤처 창업 동아리, <a href='https://sopt.org/'>SOPT</a> 36th YB, 37th OB Web Frontend 파트
--  🏆 SOPT 36기 솝커톤  `감자가자`  서비스 기업 `menTory pick!` 수상 [2025.05. ~ 2025.05.]
--  🏆 SOPT 36기 앱잼  `Bofit`  서비스 `최우수상` 수상 [2025.06. ~ ING]
--  🏆 SOPT 37기 앱잼  `Kareer`  서비스 `우수상`, 심사위원상(기업 현직자 멘토단) `특별상` 수상 [2025.12. ~ ING] `FE Lead`
+<details>
+<summary><b>대학생 연합동아리, <a href="https://makers.sopt.org/">SOPT Makers</a></b></summary>
+  
+- SOPT <a href="https://www.sopt.org/">공식 홈페이지</a> 개발, Front-End Developer [2026.08. ~ ING]
+- SOPT 구성원들이 하나로 모일 수 있는 <a href="https://github.com/sopt-makers/sopt-makers-frontend">모임 서비스</a> 개발, `Crew팀` Front-End Developer [2026.02. ~ ING]
 
-#### KaKao X Goorm <a href='https://9oormthon.university'>구름톤 유니브</a> 4기
+</details>
+
+<details>
+<summary><b>대학생 연합 IT 벤처 창업 동아리, <a href="https://sopt.org/">SOPT</a> 36th YB, 37th OB Web Frontend 파트</b></summary>
+
+- 🏆 SOPT 37기 앱잼 `Kareer` 서비스 `우수상`, 심사위원상(기업 현직자 멘토단) `특별상` 수상 [2025.12. ~ ING] `FE Lead`
+- 🏆 SOPT 36기 앱잼 `Bofit` 서비스 `최우수상` 수상 [2025.06. ~ ING]
+- 🏆 SOPT 36기 솝커톤 `감자가자` 서비스 기업 `menTory pick!` 수상 [2025.05. ~ 2025.05.]
+
+</details>
+
+<details>
+<summary><b>KaKao X Goorm <a href="https://9oormthon.university">구름톤 유니브</a> 4기</b></summary>
+
 - KaKao X Goorm 구름톤 유니브 안양대학교 `부대표` [2025.03. ~ 2025.09.]
 - KaKao X Goorm 구름톤 유니브 경인 X 경기북부 해커톤(9ITHON) `운영진` [2025.06. ~ 2025.07.]
 
-#### Univ.
+</details>
+
+<details>
+<summary><b>Univ.</b></summary>
+
 - 안양대학교 축제 서비스 `Passtival` 제작 [2025.08. ~ 2025.09.] `FE Lead`
 - NETWORK LAB [2024.11 ~ ING]
-- <a href='https://www.hultprize.org/'>Hult Prize</a> Korea — UN 후원 글로벌 사회혁신 창업 대회 `운영진` [2024.09 ~ 2025.02]
+- <a href="https://www.hultprize.org/">Hult Prize</a> Korea — UN 후원 글로벌 사회혁신 창업 대회 `운영진` [2024.09 ~ 2025.02]
 - 교내 IT 동아리 [2024.08. ~ 2024.12.]
+
+</details>
 <!--
 - 컴퓨터 공학과 홈페이지 제작 [2025.02. ~ ING]
 -->
