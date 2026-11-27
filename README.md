@@ -37,6 +37,7 @@
 <details>
 <summary><b>Univ.</b></summary>
 
+- 🏆 2026학년도 컴퓨터공학과 Capstone Design `Emotory` 서비스 `장려상` 수상
 - 안양대학교 축제 서비스 `Passtival` 제작 [2025.08. ~ 2025.09.] `FE Lead`
 - NETWORK LAB [2024.11 ~ ING]
 - <a href="https://www.hultprize.org/">Hult Prize</a> Korea — UN 후원 글로벌 사회혁신 창업 대회 `운영진` [2024.09 ~ 2025.02]
